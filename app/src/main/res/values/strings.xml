@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food Booking</string>
+    <string name="app_name_big">FOOD BOOKING\nSYSTEM</string>
+    <string name="app_name_big_one_line">FOOD BOOKING SYSTEM</string>
+    <string name="title_activity_qr_scan">QrScan</string>
+    <string name="tap_to_start_scan">Start Scan</string>
+    <string name="title_activity_result">Meal Status</string>
+    <string name="copyright">© 2019 All rights reserved by SEBPO</string>
+    <string name="todays_booking">TODAY\'S BOOKING</string>
+    <string name="todays_report">TODAY\'S REPORT</string>
+    <string name="title_activity_todays_report">Your Report</string>
+    <string name="lunch_total">LUNCH</string>
+    <string name="welcome">WELCOME</string>
+    <string name="company_name">SEBPO</string>
+</resources>
